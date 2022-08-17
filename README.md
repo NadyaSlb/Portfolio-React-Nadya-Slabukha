@@ -16,4 +16,4 @@ Built with Node, React, CSS. Deployed to GitHub.
   ![Screenshot](https://github.com/NadyaSlb/Roadmap-Nadya/blob/main/public/images/Screenshot_18.jpg)
 
   ## Website
- https://nadyaslb.github.io/React-Portfolio-Nadya-Slabukha/
+ https://nadyaslb.github.io/Portfolio-React-Nadya-Slabukha/
