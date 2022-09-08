@@ -13,7 +13,7 @@ Built with Node, React, CSS. Deployed to GitHub.
   Run the commands  npm install.
 
   ## Screenshot
-  ![Screenshot](https://github.com/NadyaSlb/Roadmap-Nadya/blob/main/public/images/Screenshot_18.jpg)
+  ![Screenshot](https://github.com/NadyaSlb/Portfolio-React-Nadya-Slabukha/blob/main/src/images/Screenshot.jpg)
 
   ## Website
  https://nadyaslb.github.io/Portfolio-React-Nadya-Slabukha/
